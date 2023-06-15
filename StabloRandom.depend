@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1642768963 source:c:\users\emin\desktop\fax\projekti\stablorandom\main.cpp
+	"Stablo.h"
+	<iostream>
+
+1642870295 c:\users\emin\desktop\fax\projekti\stablorandom\stablo.h
+	<utility>
+	<iostream>
+	"Stablo.cpp"
+
+1642871011 c:\users\emin\desktop\fax\projekti\stablorandom\stablo.cpp
+	"Stablo.h"
+	<random>
+	<time.h>
+
+1642871011 source:c:\users\emin\desktop\fax\projekti\stablorandom\stablo.cpp
+	"Stablo.h"
+	<random>
+	<time.h>
+
